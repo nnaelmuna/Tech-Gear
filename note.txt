@@ -1,0 +1,21 @@
+class bootstrap :
+-align-items-center = untuk tengah secara vertikal
+-align-items-start = untuk tengah secara vertikal
+-align-items-end = untuk tengah secara vertikal
+-justify-content-center = secara horizontal
+
+Margin :
+MY = margin vertikal (atas-bawah)
+MX = margin horizontal (kanan-kiri)
+MT = margin top
+MB = margin bottom
+MS = margin start (kiri)
+ME = margin end (kanan)
+MD = margin yang mengikuti layar (medium)
+
+Example : my-1 - mx-5
+Ukuran bootstrap = 1-5, kalo mau lebih custom di vanilla CSS
+
+display-flex flex-wrap : untuk membungkus content, jadi lebih fleksible, mudah diatur
+container : dibungkus pake container agar punya padding
+col : column baris
